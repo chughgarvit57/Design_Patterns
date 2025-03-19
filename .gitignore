@@ -1,0 +1,58 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-Specific Files
+*.user
+*.vspscc
+*.vssscc
+.vscode/
+.vs/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.cache
+*.sln.docstates
+
+# Logs & Debugging
+*.log
+*.tlog
+*.pch
+*.pidb
+*.svclog
+
+# Resharper & Rider
+*.DotSettings.user
+*.resharper
+_ReSharper*/
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+*.nuspec
+
+# ASP.NET Specific
+App_Data/
+AppPackages/
+Backup/
+TestResults/
+logs/
+
+# Visual Studio Code
+.history/
+*.code-workspace
+
+# Entity Framework
+Migrations/
+
+# Rider & JetBrains
+.idea/
+*.iml
+
+# Misc
+*.bak
+*.cache
+*.swp
